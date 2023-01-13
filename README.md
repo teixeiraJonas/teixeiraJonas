@@ -5,7 +5,7 @@
 
 # Olá⚡
 
-> Sou um desenvolvedor full stack apaixonado por dar vidas aos codigos. 
+> Sou um Analista e Desenvolvedor de Sistemas apaixonado por dar vidas aos codigos. 
 
 ## Skill
 <div align="left">  
